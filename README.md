@@ -2,6 +2,10 @@
 
 A feature-rich To-Do List application built with React and Redux Toolkit for state management.
 
+
+<img src="./public//screens/1.png" />
+<img src="./public//screens/2.png" />
+
 ## Features
 
 ### Core Features
